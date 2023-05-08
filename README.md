@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carsonkrueger
 - 👀 I’m interested in any kind of software developement!
 - 🌱 I’m currently learning C++, React js/Native, Typescript, Next Js, Rust and more!
-- 💞️ I’m looking to collaborate with those who are in need of an Intern!
+- 💞️ I’m looking to collaborate with those who are in need of a Junior developer!
 - 📫 I can be reached at crkruege@gmail.com.
 
 <!---
