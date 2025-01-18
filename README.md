@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @carsonkrueger
-- 👀 I’m interested in any kind of software developement!
-- 🌱 I’m currently learning C++, React js/Native, Typescript, Next Js, Rust and more!
-- 💞️ I’m looking to collaborate with those who are in need of a Junior developer!
-- 📫 I can be reached at crkruege@gmail.com.
+- I'm a nerd
 
 <!---
 carsonkrueger/carsonkrueger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
