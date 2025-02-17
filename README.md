@@ -1,4 +1,4 @@
-- I'm a nerd
+- CS nerd with a love for building new things.
 
 <!---
 carsonkrueger/carsonkrueger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
